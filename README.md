@@ -10,5 +10,3 @@ Most of my engineering work happens in private company repositories. The public 
 - [mynews](https://github.com/lawzava/mynews): RSS and Atom feeds filtered by keyword or relevance score, sent to Telegram, Discord, Slack, or a webhook.
 - [go-pg-migrate](https://github.com/lawzava/go-pg-migrate): PostgreSQL migrations for Go, listed in [Awesome Go](https://awesome-go.com).
 - [scrape](https://github.com/lawzava/scrape) and [emailscraper](https://github.com/lawzava/emailscraper): a Go CLI and library that find the email addresses a website publishes.
-
-Upstream fixes I've had merged: [gofiber/jwt#31](https://github.com/gofiber/jwt/pull/31), [dylanaraps/neofetch#1404](https://github.com/dylanaraps/neofetch/pull/1404), [G4brym/R2-Explorer#62](https://github.com/G4brym/R2-Explorer/pull/62), [regolith-linux/regolith-rofication#1](https://github.com/regolith-linux/regolith-rofication/pull/1).
